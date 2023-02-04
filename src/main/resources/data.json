@@ -1,0 +1,11 @@
+[
+  {
+  "name": "Dr. Sanders",
+  "speciality": "General",
+  "patienList": ["J. Smalling", "Samantha Williams"]
+},
+{
+  "name": "Dr. Goldberg",
+  "speciality": "General"
+}
+]
